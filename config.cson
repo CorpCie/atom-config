@@ -1,0 +1,36 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "a0f1aa1f-8241-474e-984c-57bc3f533f14"
+  autosave:
+    enabled: true
+  core:
+    audioBeep: false
+    automaticallyUpdate: false
+    disabledPackages: [
+      "gulp-control"
+      "atom-ctags"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "monokai"
+    ]
+  editor:
+    fontSize: 18
+    preferredLineLength: 120
+    showIndentGuide: true
+    softWrap: true
+  "exception-reporting":
+    userId: "97d9cae8-c976-0c86-3d01-7fe04308209e"
+  "find-and-replace":
+    scrollToResultOnLiveSearch: true
+  "fuzzy-finder": {}
+  "keyboard-localization":
+    useKeyboardLayout: "fr_FR"
+  linter: {}
+  "linter-eslint":
+    disableFSCache: true
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
